@@ -7,10 +7,4 @@ Create tables, import CSV files, and perform data modeling, data engineering, an
 # Instructions
 - See ERD.png for screenshot of Entity Relationship Diagram (ERD) using Quick Database Diagrams
 - See qbdiagram.txt for text file of Logical Schema.
-- See "data" folder for CSV files of the following:
-Departments
-Department Employees
-Department Managers
-Employees
-Salaries
-Titles
+- See "data" folder for CSV files: Departments, Department Employees, Department Managers, Employees, Salaries, and Titles
